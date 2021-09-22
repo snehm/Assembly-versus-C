@@ -1,5 +1,5 @@
 # Assembly-versus-C
-Time complexity comparison of my x86 Assembly code implementation and my C code implementation.<br/>
+Time complexity comparison of x86 Assembly code implementation V/S C code implementation.<br/>
 <br/>
 Bubble sort<br/>
 Time comparison for sorting bytes in a block of memory using bubble sort algorithm.
